@@ -1,0 +1,34 @@
+{"intents":
+[
+    {"tag":"bienvenida",
+     "patterns":["Hola Lucina", "Despierta Lucina", "Lucina", "Lucina Necesito Ayuda"],
+     "responses":["Hola Maestro", "En que puedo ayudarte"]},
+
+    {"tag":"crear_nota",
+     "patterns":["Crea una nota", "Crea un documento", "Crear Nota"],
+     "responses":[""]},
+
+    {"tag":"agregar_todo",
+     "patterns":["Agrega un que hacer", "Agregar que hacer"],
+     "responses":[""]},
+
+    {"tag":"mostrar_todo",
+     "patterns":["Dime mis que haceres", "Lista de que haceres"],
+     "responses":[""]},
+
+    {"tag":"adios",
+     "patterns":["Apagate"],
+     "responses":[""]},
+
+     {"tag":"fecha",
+        "patterns":["Que fecha es hoy?", "Que dia es hoy?", "Podrias decirme que fecha es hoy?"],
+        "responses":[""]},
+
+    {"tag":"wikipedia",
+     "patterns":["Abre Wikipedia", "Buscar en Wikipedia", "Wikipedia"],
+     "responses":[""]},
+
+     {"tag":"youtube",
+        "patterns":["Reproducir Musica", "Busqueda en Youtube", "Youtube"],
+        "responses":[""]}
+]}
