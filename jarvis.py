@@ -14,7 +14,6 @@ from googletrans import Translator
 # print(voices[0])
 # print(voices[1])
 
-#New Changes
 
 recognizer = speech_recognition.Recognizer()
 

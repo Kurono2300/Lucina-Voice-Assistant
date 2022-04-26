@@ -5,7 +5,7 @@
      "responses":["Hola Maestro", "En que puedo ayudarte"]},
 
     {"tag":"crear_nota",
-     "patterns":["Crea una nota", "Crea un documento", "Crear Nota"],
+     "patterns":["Crea una nota", "Crea un documento"],
      "responses":[""]},
 
     {"tag":"agregar_todo",
